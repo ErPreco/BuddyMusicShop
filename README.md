@@ -1,2 +1,2 @@
 # BuddyMusicShop
-A database about a shop of vinyls, CDs and audio cassettes
+A database about a shop of vinyls, CDs and audio cassettes.
